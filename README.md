@@ -11,5 +11,4 @@
 - ⚡ Fun fact: I am a lifelong learner
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
