@@ -10,7 +10,9 @@
 - 📫 How to reach me: [112623chen@gmail.com](mailto:112623chen@gmail.com) or [Linkedin](https://www.linkedin.com/in/112523chen/)
 - ⚡ Fun fact: I am a lifelong learner
 
-### Stats
+<br>
+
+### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
 ```text
