@@ -31,6 +31,10 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 01 May 2022 - To: 08 May 2022
+
+Total Time: 3 hrs 52 mins
+
 HTML         1 hr 16 mins    ████████▒░░░░░░░░░░░░░░░░   32.83 %
 CSS          1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
 JavaScript   31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
