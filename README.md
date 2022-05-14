@@ -31,16 +31,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 May 2022 - To: 13 May 2022
+From: 07 May 2022 - To: 14 May 2022
 
-Total Time: 20 hrs 32 mins
+Total Time: 21 hrs 7 mins
 
-Python       5 hrs 53 mins   ███████▒░░░░░░░░░░░░░░░░░   28.68 %
-HTML         5 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.83 %
-CSS          4 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   20.44 %
-Java         2 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-JavaScript   1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-YAML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Python       6 hrs 10 mins   ███████▒░░░░░░░░░░░░░░░░░   29.26 %
+HTML         5 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
+CSS          3 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
+JavaScript   2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Java         2 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+YAML         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
