@@ -33,16 +33,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2022 - To: 23 May 2022
+From: 17 May 2022 - To: 24 May 2022
 
-Total Time: 6 hrs 28 mins
+Total Time: 5 hrs 13 mins
 
-Python       4 hrs 15 mins   ████████████████▒░░░░░░░░   65.61 %
-Java         54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-SQL          27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Git Config   24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-JSON         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Markdown     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Python       4 hrs 9 mins    ████████████████████░░░░░   79.51 %
+SQL          27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Git Config   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
