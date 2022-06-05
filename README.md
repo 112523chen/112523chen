@@ -1,6 +1,6 @@
 # Hi there, I'm Alex  👋
 
-Welcome to my profile, I am a student, apsiring data scienist that is also interest in web development, and full-time learner. 
+Welcome to my profile, I am a student, apsiring data scienist that is also interest in full stack development, and full-time learner. 
 
 - 🔭 I’m currently working on data science projects
 - 🌱 I’m currently learning natural language processing in python along with machine learning
