@@ -2,7 +2,7 @@
 
 Welcome to my profile, I am a student, apsiring data scienist that is also interest in full stack development, and full-time learner. 
 
-- 🔭 I’m currently working on data science projects
+- 🔭 I’m currently working on data science projects and web apps
 - 🌱 I’m currently learning natural language processing in python along with machine learning
 - 👯 I’m looking to collaborate on data science projects
 - 🤔 I’m looking for help with project ideas
