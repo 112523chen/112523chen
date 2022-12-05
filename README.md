@@ -9,7 +9,7 @@ Welcome to my profile, I am a student, apsiring data scienist that is also inter
 - 💬 Ask me about music
 - 📫 How to reach me: 
 
-    [![Linkedin Badge](https://img.shields.io/badge/Alex%20Chen-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/alex-chen-112523chen)](https://www.linkedin.com/in/alex-chen-112523chen/) [![Gmail Badge](https://img.shields.io/badge/-Alex%20Chen-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:112623chen@gmail.com)](mailto:112623chen@gmail.com)
+    [![Linkedin Badge](https://img.shields.io/badge/Alex%20Chen-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/alex-chen-112523chen)](https://www.linkedin.com/in/alex-chen-112523chen/) [![Gmail Badge](https://img.shields.io/badge/-Alex%20Chen-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:itsalexchen@gmail.com)](mailto:itsalexchen@gmail.com)
 
 <br>
 
