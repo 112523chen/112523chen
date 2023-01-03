@@ -39,16 +39,15 @@ Welcome to my profile, I am a student, apsiring data scienist that is also inter
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 December 2022 - To: 02 January 2023
+From: 27 December 2022 - To: 03 January 2023
 
-Total Time: 8 hrs 49 mins
+Total Time: 6 hrs 7 mins
 
-Python       2 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   30.02 %
-Markdown     1 hr 34 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
-HTML         1 hr 31 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
-TypeScript   1 hr 16 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
-JavaScript   55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-Vue.js       25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Python       2 hrs 42 mins   ██████████▓░░░░░░░░░░░░░░   42.47 %
+Markdown     1 hr 25 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
+HTML         1 hr            ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+JavaScript   54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
+Other        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
