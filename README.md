@@ -39,12 +39,13 @@ Welcome to my profile, I am a student, apsiring data scienist that is also inter
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 January 2023 - To: 10 January 2023
+From: 04 January 2023 - To: 11 January 2023
 
-Total Time: 24 mins
+Total Time: 1 hr 20 mins
 
-JavaScript   21 mins         ███████████████▒░░░░░░░░░   61.88 %
-Other        10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.02 %
+JavaScript   45 mins         ████████████▒░░░░░░░░░░░░   49.56 %
+Python       32 mins         ████████▓░░░░░░░░░░░░░░░░   35.19 %
+Other        10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
 ```
 
 <!--END_SECTION:waka-->
