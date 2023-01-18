@@ -13,6 +13,24 @@ Welcome to my profile, I am a student, apsiring data scienist that is also inter
 
 <br>
 
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+
+```text
+From: 10 January 2023 - To: 17 January 2023
+
+Total Time: 29 hrs 2 mins
+
+TypeScript    12 hrs 44 mins  ███████████░░░░░░░░░░░░░░   43.73 %
+SCSS          3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+Python        2 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+HTML          2 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+JavaScript    2 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+CSS           2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+```
+
+<!--END_SECTION:waka-->
+
 ### Programming Languages 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
@@ -42,21 +60,3 @@ Welcome to my profile, I am a student, apsiring data scienist that is also inter
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <br>
-
-### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-
-```text
-From: 10 January 2023 - To: 17 January 2023
-
-Total Time: 29 hrs 2 mins
-
-TypeScript    12 hrs 44 mins  ███████████░░░░░░░░░░░░░░   43.73 %
-SCSS          3 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-Python        2 hrs 58 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-HTML          2 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-JavaScript    2 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-CSS           2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-```
-
-<!--END_SECTION:waka-->
