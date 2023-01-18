@@ -3,7 +3,7 @@
 Welcome to my profile, I am a student, apsiring data scienist that is also interest in full stack development, and full-time learner. 
 
 - 🔭 I’m currently working on data science projects and web apps
-- 🌱 I’m currently learning natural language processing and deep learning 
+- 🌱 I’m currently learning about natural language processing and deep learning 
 - 👯 I’m looking to collaborate on data science and web development projects
 - 🤔 I’m looking for help with project ideas
 - 💬 Ask me about music
