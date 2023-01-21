@@ -17,16 +17,16 @@ Welcome to my profile, I am a student, apsiring data scienist that is also inter
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 January 2023 - To: 20 January 2023
+From: 14 January 2023 - To: 21 January 2023
 
-Total Time: 45 hrs 14 mins
+Total Time: 57 hrs 46 mins
 
-TypeScript    24 hrs 21 mins  █████████████▒░░░░░░░░░░░   53.69 %
-SCSS          4 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-JavaScript    3 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-HTML          3 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-CSS           3 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-JSON          2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+TypeScript    38 hrs 1 min    ████████████████▒░░░░░░░░   65.66 %
+SCSS          4 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+CSS           3 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+HTML          2 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+JSON          2 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+JavaScript    2 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
 ```
 
 <!--END_SECTION:waka-->
