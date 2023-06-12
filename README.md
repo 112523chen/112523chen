@@ -1,6 +1,6 @@
 # Hi there, I'm Alex  👋
 
-I'm a data science student and apsiring data engineer that has worked to connect people with data in investigator and engineer roles. 
+I'm a data science student and aspiring data engineer who connects people with data in investigator and engineer roles. 
 
 ### More About Me
 
@@ -8,8 +8,6 @@ I'm a data science student and apsiring data engineer that has worked to connect
 - 🌱 I’m currently learning more about data engineering and cloud service
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Alex%20Chen-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/alex-chen-112523chen)](https://www.linkedin.com/in/alex-chen-112523chen/) [![Gmail Badge](https://img.shields.io/badge/-Alex%20Chen-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:itsalexchen@gmail.com)](mailto:itsalexchen@gmail.com)
 - 📝 Checkout my [resume](https://112523chen.github.io/AlexChenResume.pdf)
-
-<br>
 
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
@@ -25,8 +23,6 @@ Other        9 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
 ### Things I Code With
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -47,4 +43,3 @@ Other        9 mins          ▒░░░░░░░░░░░░░░░░
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<br>
