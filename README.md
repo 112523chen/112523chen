@@ -36,6 +36,7 @@ Other        9 mins          ▒░░░░░░░░░░░░░░░░
 5. 🎉 Merged PR [#34](https://github.com/112523chen/112523chen.github.io/pull/34) in [112523chen/112523chen.github.io](https://github.com/112523chen/112523chen.github.io)
 <!--END_SECTION:activity-->
 
+
 ### Things I Code With
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
