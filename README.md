@@ -15,15 +15,13 @@ I'm a data science student and apsiring data engineer that has worked to connect
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2023 - To: 11 June 2023
+Total Time: 16 hrs 35 mins
 
-Total Time: 9 hrs 41 mins
-
-Python       8 hrs 18 mins   █████████████████████░░░░   84.34 %
-HTML         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-JSON         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-TypeScript   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Python       7 hrs 53 mins   ███████████▓░░░░░░░░░░░░░   47.09 %
+TypeScript   7 hrs 22 mins   ███████████░░░░░░░░░░░░░░   44.03 %
+JSON         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+HTML         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
