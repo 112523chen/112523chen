@@ -26,14 +26,7 @@ Other        9 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:activity-->
-1. 🚀 Published release [Version 3.3](https://github.com/Version 3.3) in [112523chen/112523chen.github.io](https://github.com/112523chen/112523chen.github.io)
-2. 🎉 Merged PR [#35](https://github.com/112523chen/112523chen.github.io/pull/35) in [112523chen/112523chen.github.io](https://github.com/112523chen/112523chen.github.io)
-3. 💪 Opened PR [#35](https://github.com/112523chen/112523chen.github.io/pull/35) in [112523chen/112523chen.github.io](https://github.com/112523chen/112523chen.github.io)
-4. 🔒 Closed issue [#30](https://github.com/112523chen/112523chen.github.io/issues/30) in [112523chen/112523chen.github.io](https://github.com/112523chen/112523chen.github.io)
-5. 🎉 Merged PR [#34](https://github.com/112523chen/112523chen.github.io/pull/34) in [112523chen/112523chen.github.io](https://github.com/112523chen/112523chen.github.io)
-<!--END_SECTION:activity-->
-
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
 ### Things I Code With
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
