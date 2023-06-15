@@ -13,13 +13,13 @@ I'm a data science student and aspiring data engineer who connects people with d
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 35 mins
+Total Time: 21 hrs 31 mins
 
-Python       7 hrs 53 mins   ███████████▓░░░░░░░░░░░░░   47.09 %
-TypeScript   7 hrs 22 mins   ███████████░░░░░░░░░░░░░░   44.03 %
-JSON         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-HTML         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Python       10 hrs 37 mins  ████████████▒░░░░░░░░░░░░   48.98 %
+TypeScript   8 hrs 54 mins   ██████████▒░░░░░░░░░░░░░░   41.13 %
+JSON         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Rust         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+HTML         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
