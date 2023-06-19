@@ -9,6 +9,7 @@ I'm a data science student and aspiring data engineer who connects people with d
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Alex%20Chen-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/alex-chen-112523chen)](https://www.linkedin.com/in/alex-chen-112523chen/) [![Gmail Badge](https://img.shields.io/badge/-Alex%20Chen-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:itsalexchen@gmail.com)](mailto:itsalexchen@gmail.com)
 - 📝 Checkout my [resume](https://112523chen.github.io/AlexChenResume.pdf)
 
+
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
@@ -24,7 +25,7 @@ Rust         30 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### Things I Code With
+### 👨‍💻 Things I Code With
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -43,3 +44,7 @@ Rust         30 mins         ▓░░░░░░░░░░░░░░░░
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+
+### 📖 Things I'm Learning
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64905d43db7de05a7a6e8b7a?variant=dark)](https://roadmap.sh)
