@@ -44,7 +44,3 @@ JSON         14 mins         ▒░░░░░░░░░░░░░░░░
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-
-### 📖 Things I'm Learning
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64905d43db7de05a7a6e8b7a?variant=dark)](https://roadmap.sh)
