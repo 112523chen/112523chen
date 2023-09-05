@@ -16,10 +16,10 @@ I'm a data science student and aspiring data engineer who connects people with d
 ```txt
 Total Time: 10 hrs 8 mins
 
-Python        7 hrs           █████████████████▒░░░░░░░   69.10 %
+Python        7 hrs           █████████████████▒░░░░░░░   69.11 %
 Docker        1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
 Text          55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-Assembly      48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Assembly      48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
 HTML          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
