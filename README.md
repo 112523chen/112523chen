@@ -14,13 +14,13 @@ I'm a data science student and aspiring data engineer who connects people with d
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 52 mins
+Total Time: 14 hrs 33 mins
 
-Python      9 hrs 2 mins    ████████████▓░░░░░░░░░░░░   50.56 %
-Assembly    2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-YAML        1 hr 58 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-SQL         1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-Bash        1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Python           8 hrs 36 mins   ██████████████▓░░░░░░░░░░   59.06 %
+Assembly         2 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
+Bash             52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+SQL              44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Terraform        35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
