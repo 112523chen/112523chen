@@ -14,13 +14,13 @@ I'm a data science student and aspiring data engineer who connects people with d
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 27 mins
+Total Time: 11 hrs 54 mins
 
-Python       7 hrs 5 mins    ███████████▓░░░░░░░░░░░░░   46.13 %
-SQL          3 hrs 56 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
-Other        2 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
-YAML         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Markdown     26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Python       7 hrs 6 mins    ███████████████░░░░░░░░░░   59.72 %
+SQL          1 hr 58 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
+YAML         1 hr 33 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+Rust         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Markdown     21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
