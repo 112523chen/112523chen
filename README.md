@@ -14,13 +14,13 @@ I'm a data science student and aspiring data engineer who connects the right peo
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 3 mins
+Total Time: 9 hrs 55 mins
 
-Terraform    1 hr 41 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
-TypeScript   1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
-Python       1 hr 22 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
-JavaScript   46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-Bash         41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+YAML         1 hr 51 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
+Terraform    1 hr 41 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
+TypeScript   1 hr 23 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+Python       1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+JavaScript   46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
 ```
 
 <!--END_SECTION:waka-->
