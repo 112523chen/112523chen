@@ -14,13 +14,13 @@ I'm a data science student and aspiring data engineer who connects the right peo
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 hrs
+Total Time: 17 hrs 38 mins
 
-TypeScript   16 hrs 2 mins   ████████████████████▓░░░░   82.71 %
-Other        1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Python       41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Docker       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+TypeScript   13 hrs 24 mins  █████████████████▓░░░░░░░   70.63 %
+PHP          2 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Other        1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Python       46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Text         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
