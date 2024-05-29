@@ -14,13 +14,11 @@ I'm a data science student and aspiring data engineer who connects the right peo
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 50 mins
+Total Time: 1 hr 11 mins
 
-Python       2 hrs 41 mins   ███████████▒░░░░░░░░░░░░░   45.94 %
-SQL          1 hr 37 mins    ███████░░░░░░░░░░░░░░░░░░   27.80 %
-Other        1 hr            ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
-Text         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-YAML         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+SQL    1 hr 10 mins    ████████████████████████▓   98.46 %
+Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
