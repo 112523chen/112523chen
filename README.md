@@ -16,10 +16,9 @@ I'm a data science student and aspiring data engineer who connects the right peo
 ```txt
 Total Time: 16 mins
 
-Python   16 mins         ████████████████████████▒   96.95 %
+Python   16 mins         ████████████████████████▒   97.14 %
 Lua      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 SQL      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
