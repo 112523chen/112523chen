@@ -19,10 +19,10 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 ```txt
 Total Time: 1 hr 29 mins
 
-Rust       36 mins         ██████████▒░░░░░░░░░░░░░░   41.30 %
-YAML       35 mins         ██████████░░░░░░░░░░░░░░░   40.05 %
-Markdown   14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
-TOML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Rust       36 mins         ██████████▒░░░░░░░░░░░░░░   41.19 %
+YAML       35 mins         ██████████░░░░░░░░░░░░░░░   39.94 %
+Markdown   14 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+TOML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
