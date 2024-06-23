@@ -19,10 +19,10 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 ```txt
 Total Time: 2 hrs
 
-Python     1 hr 10 mins    ██████████████▓░░░░░░░░░░   58.23 %
-Markdown   24 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
-YAML       11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-Docker     10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+Python     1 hr 9 mins     ██████████████▓░░░░░░░░░░   58.14 %
+Markdown   24 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
+YAML       11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+Docker     10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
 CSV        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
 
