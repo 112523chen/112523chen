@@ -19,8 +19,8 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 ```txt
 Total Time: 2 hrs 21 mins
 
-Python   2 hrs 4 mins    ██████████████████████░░░   87.64 %
-CSV      13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Python   2 hrs 4 mins    ██████████████████████░░░   87.65 %
+CSV      13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
 XML      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 Bash     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
