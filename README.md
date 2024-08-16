@@ -17,13 +17,13 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 16 mins
+Total Time: 6 hrs 27 mins
 
-Terraform    3 hrs 56 mins   █████████████▓░░░░░░░░░░░   54.21 %
-Bash         2 hrs 20 mins   ████████░░░░░░░░░░░░░░░░░   32.17 %
-YAML         52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-SQL          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Terraform    3 hrs 56 mins   ███████████████▒░░░░░░░░░   61.15 %
+Bash         1 hr 30 mins    ██████░░░░░░░░░░░░░░░░░░░   23.47 %
+YAML         52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+SQL          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
