@@ -17,12 +17,10 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 53 mins
+Total Time: 31 mins
 
-Terraform    16 mins         ████████░░░░░░░░░░░░░░░░░   31.75 %
-SSH Config   16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.49 %
-Rust         14 mins         ███████░░░░░░░░░░░░░░░░░░   27.91 %
-HCL          5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+SSH Config   16 mins         █████████████░░░░░░░░░░░░   52.21 %
+Rust         14 mins         ████████████░░░░░░░░░░░░░   47.79 %
 ```
 
 <!--END_SECTION:waka-->
