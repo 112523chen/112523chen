@@ -17,9 +17,12 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 mins
+Total Time: 1 hr 31 mins
 
-SSH Config   16 mins         █████████████████████████   100.00 %
+Python       1 hr 6 mins     ██████████████████░░░░░░░   72.47 %
+SSH Config   16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
+CSV          8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
