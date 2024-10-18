@@ -17,10 +17,9 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 28 mins
 
-Python     0 secs          █████████████████▓░░░░░░░   70.15 %
-Markdown   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.85 %
+Markdown   28 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
