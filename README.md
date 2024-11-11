@@ -17,10 +17,9 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 3 mins
+Total Time: 2 hrs 23 mins
 
-Python      2 hrs 23 mins   ███████████████████▓░░░░░   78.14 %
-Terraform   40 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
+Python   2 hrs 23 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
