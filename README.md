@@ -17,9 +17,9 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 mins
+Total Time: 13 mins
 
-Bash   10 mins         █████████████████████████   100.00 %
+Bash   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
