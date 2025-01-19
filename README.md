@@ -19,10 +19,10 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 ```txt
 Total Time: 6 hrs 2 mins
 
-Lua          1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
-TypeScript   52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+Lua          1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
+TypeScript   52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
 Go           47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
-Markdown     43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+Markdown     43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
 Python       41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
 ```
 
