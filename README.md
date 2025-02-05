@@ -19,9 +19,9 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 ```txt
 Total Time: 17 mins
 
-Rust    17 mins         ███████████████████████░░   92.36 %
-Other   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-Bash    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Rust    17 mins         ███████████████████████▒░   93.35 %
+Other   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Bash    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 netrw   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
