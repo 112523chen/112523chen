@@ -17,13 +17,13 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 32 mins
+Total Time: 57 mins
 
-Other             14 mins         ███████▓░░░░░░░░░░░░░░░░░   30.60 %
-YAML              8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
-Java Properties   6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
-netrw             6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-INI               6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
+Other             1 hr 17 mins    ██████████████▒░░░░░░░░░░   57.56 %
+Python            14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+netrw             9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+YAML              8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+Java Properties   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
 ```
 
 <!--END_SECTION:waka-->
