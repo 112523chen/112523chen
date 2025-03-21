@@ -17,13 +17,13 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 hrs 3 mins
+Total Time: 23 hrs 16 mins
 
-Rust       16 hrs 59 mins  ██████████████████░░░░░░░   72.19 %
-Git        3 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
-TOML       1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Markdown   42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Text       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Rust       17 hrs 18 mins  ██████████████████▒░░░░░░   73.04 %
+Git        3 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+TOML       1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Text       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Markdown   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
