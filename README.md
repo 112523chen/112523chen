@@ -19,7 +19,8 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+Other   13 mins         ████████████████████████▒   97.08 %
+JSON    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
