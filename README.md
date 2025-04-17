@@ -17,10 +17,11 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 mins
 
-Other   13 mins         ████████████████████████▒   97.08 %
-JSON    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Other   13 mins         ████████████████████▓░░░░   82.00 %
+Rust    2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+JSON    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
