@@ -19,11 +19,11 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 ```txt
 Total Time: 1 hr 3 mins
 
-Python       1 hr            ███████████████████████▓░   95.04 %
-Docker       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-SSH Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python       1 hr            ██████████████████████▓░░   91.26 %
+Other        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Docker       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+SSH Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
