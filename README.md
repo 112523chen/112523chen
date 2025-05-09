@@ -17,12 +17,10 @@ I'm a data science new grad and data engineer who builds systems to connect the 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 53 mins
+Total Time: 6 mins
 
-Python       52 mins         ███████████████████████░░   92.62 %
-Other        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-SSH Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python   6 mins          █████████████████▒░░░░░░░   69.74 %
+Other    2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.26 %
 ```
 
 <!--END_SECTION:waka-->
