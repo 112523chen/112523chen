@@ -1,6 +1,6 @@
 # Hi there, I'm Alex  👋
 
-I'm a data science new grad and data engineer who builds systems to connect the right people with the right data. 
+I'm an AWS Certified Data Engineer with 2+ years of experience developing and implementing robust data solutions to connect the right people with the right data. 
 
 ### More About Me
 
