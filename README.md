@@ -17,13 +17,13 @@ I'm an AWS Certified Data Engineer with 2+ years of experience developing and im
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 30 mins
+Total Time: 4 hrs 32 mins
 
-Terraform    2 hrs 5 mins    ████████▓░░░░░░░░░░░░░░░░   35.05 %
-Python       1 hr 54 mins    ████████░░░░░░░░░░░░░░░░░   32.09 %
-Other        1 hr 26 mins    ██████░░░░░░░░░░░░░░░░░░░   24.17 %
-HCL          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Git          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Terraform    2 hrs 5 mins    ████████▒░░░░░░░░░░░░░░░░   33.92 %
+Python       1 hr 56 mins    ████████░░░░░░░░░░░░░░░░░   31.66 %
+Other        1 hr 35 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
+HCL          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Git          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
