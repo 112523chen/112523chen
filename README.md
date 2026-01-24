@@ -17,13 +17,13 @@ I'm an AWS Certified Data Engineer with 2+ years of experience developing and im
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 41 mins
+Total Time: 33 mins
 
-Rust        24 mins         ███████████▓░░░░░░░░░░░░░   46.00 %
-Other       11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
-YAML        11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
-TOML        4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Git         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Rust        16 mins         █████████░░░░░░░░░░░░░░░░   36.13 %
+Other       11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
+YAML        11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.06 %
+TOML        4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+Git         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
