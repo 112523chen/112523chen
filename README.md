@@ -19,8 +19,7 @@ I'm an AWS Certified Data Engineer with 2+ years of experience developing and im
 ```txt
 Total Time: 18 mins
 
-Git     18 mins         ████████████████████████▒   97.30 %
-Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Git   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
