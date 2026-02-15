@@ -17,10 +17,10 @@ I'm an AWS Certified Data Engineer with 2+ years of experience developing and im
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 mins
+Total Time: 0 secs
 
-Other   13 mins         ██████████████████▓░░░░░░   74.81 %
-Bash    4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
+Other       3 mins          ████████████████████▓░░░░   82.91 %
+sshconfig   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
 ```
 
 <!--END_SECTION:waka-->
