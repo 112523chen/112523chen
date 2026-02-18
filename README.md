@@ -19,8 +19,8 @@ I'm an AWS Certified Data Engineer with 2+ years of experience developing and im
 ```txt
 Total Time: 0 secs
 
-Other       3 mins          ████████████████████▓░░░░   82.91 %
-sshconfig   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
+Other       3 mins                ████████████████████▓░░░░   82.91 %
+sshconfig   0 secs                ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
 ```
 
 <!--END_SECTION:waka-->
