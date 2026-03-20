@@ -19,7 +19,7 @@ I'm an AWS Certified Data Engineer with 2+ years of experience developing and im
 ```txt
 Total Time: 0 secs
 
-Other   2 hrs 7 mins          █████████████████████████   100.00 %
+Other   2 hrs 17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
