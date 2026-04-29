@@ -17,13 +17,13 @@ I'm an AWS Certified Data Engineer with 2+ years of experience developing and im
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 11 mins
+Total Time: 8 hrs 2 mins
 
-YAML              2 hrs 27 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
-SQL               2 hrs 1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
-Rust              1 hr 12 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-Lua               1 hr 12 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-Python            31 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+YAML              2 hrs 27 mins         ███████▒░░░░░░░░░░░░░░░░░   29.33 %
+SQL               2 hrs 1 min           ██████░░░░░░░░░░░░░░░░░░░   24.07 %
+Rust              48 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+Lua               32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Python            31 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
 ```
 
 <!--END_SECTION:waka-->
