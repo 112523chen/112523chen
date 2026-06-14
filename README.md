@@ -17,13 +17,9 @@ I'm an AWS Certified Data Engineer with 2+ years of experience developing and im
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 28 mins
+Total Time: 36 mins
 
-TypeScript   47 mins               █████████████▒░░░░░░░░░░░   53.08 %
-conf         36 mins               ██████████▒░░░░░░░░░░░░░░   41.11 %
-Lua          2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-HTML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+conf   36 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
