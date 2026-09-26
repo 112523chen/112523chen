@@ -19,7 +19,8 @@ I'm an AWS Certified Data Engineer with 2+ years of experience developing and im
 ```txt
 Total Time: 0 secs
 
-Other   2 mins                █████████████████████████   100.00 %
+Other   2 mins                █████████████████████░░░░   83.50 %
+netrw   0 secs                ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
 ```
 
 <!--END_SECTION:waka-->
