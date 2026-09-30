@@ -19,8 +19,8 @@ I'm an AWS Certified Data Engineer with 2+ years of experience developing and im
 ```txt
 Total Time: 1 hr 35 mins
 
-Markdown   1 hr 34 mins          ███████████████████████░░   91.45 %
-Other      8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Markdown   1 hr 34 mins          ███████████████████████░░   91.62 %
+Other      7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
 netrw      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
